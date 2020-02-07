@@ -1,0 +1,9 @@
+game/cache/
+game/tl/
+lib/
+renpy/
+game/saves/
+game/gui/
+errors.txt
+log.txt
+traceback.txt
